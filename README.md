@@ -1,0 +1,1 @@
+vavjs-resources
